@@ -1,0 +1,12 @@
+[package]
+name = "lang-code"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[example]]
+name = "tiny-lang0"
+path = "examples/tiny-lang0.rs"
